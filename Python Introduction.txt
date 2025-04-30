@@ -1,0 +1,35 @@
+What is Python?
+Python is a high level general purpose programming language
+
+high level - very easy
+python’s code/syntax is as simple as like english
+
+General Purpose :
+1.Software Development -tkinter,pyqt5
+2.Web Development - django,fastapi
+3.Game Development - pandas3d and pygame
+4.Data Science & Data Analytics -Top
+5.Ethical Hacking
+6.Automation Testing
+
+Programming ->Program - >set of instructions used to perform a particular operation->+,-,/,*->calculator
+
+
+Python History:
+Guido Vann Rossum - 1991 -he was highly inspired by a circus show : “Monty’s Python Flying Circus”
+Python is successor of ABC Language
+
+Python Installation :
+1.go to “python.org”
+2.then install python using https://phoenixnap.com/kb/how-to-install-python-3-windows these steps.
+
+3.then open IDLE(Interactive Development Learning Environment)
+
+——————————————————
+Features:
+1.High Level
+2.general purpose
+3.Dynamically Typed
+4.Python has its own set of libraries/modules
+5.open source
+6.platform independent
